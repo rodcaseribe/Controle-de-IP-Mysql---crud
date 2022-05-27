@@ -1,0 +1,20 @@
+<?php
+    $setores = [
+        'Agulhados',
+        'Tufting',
+        'Portaria',
+        'Automotiva',
+        'Tesouraria',
+        'Psicologia',
+        'Funilaria',
+        'Baleia',
+        'Tear',
+        'Refeitorio',
+        'Administracao',
+        'Expedicao',
+        'Zambom',
+        'Informatica',
+        'Artos',
+    ];
+    sort($setores);
+?>
